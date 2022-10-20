@@ -4,6 +4,14 @@ body{
     background-repeat: no-repeat;
 }
 
+div{
+    width: 700px;
+    height: 60px;
+    margin: auto;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 20px;
+}
+
 h1{
     color: azure;
     font-family:'Courier New', Courier, monospace;
